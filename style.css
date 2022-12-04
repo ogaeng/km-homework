@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap');
+
+body {
+  word-break: keep-all;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.deathnote-logo {
+  height: 60px;
+}
+
+.text_color_yel {
+  color: #E5B868;
+}
+
+.subtitle_text {
+  color: #E5B868;
+  padding-bottom: 1.5rem;
+  font-size: 2rem;
+  text-align: center;
+}
+
+section {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+#afterTicketing {
+  display: none;
+}
